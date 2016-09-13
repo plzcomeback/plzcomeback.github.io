@@ -1,0 +1,104 @@
+body {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(../img/shir.jpg);
+}
+
+.social-buttons{
+    color: #ffffff;
+    display: inline-block;
+    margin: 0;
+    padding:0;
+    list-style: none;
+    text-decoration: none;
+    margin-left: 800px;
+}
+
+.social-buttons li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+
+.container {
+    width: 940px;
+    padding: 0 10px;
+    margin: 0 auto;
+}
+
+h1 {
+    display: block;
+    font-size: 80px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    color: #ffffff;
+    border: 3px solid #ffffff;
+    border-radius: 10px;
+    padding: 40px;
+    margin: 0 10px;
+    margin-top: 40px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.countdown {
+    border: 2px solid white;
+}
+
+.countdowntitle{
+    margin-top: 140px;
+    display: block;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 40px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.countdownwrap {
+    margin-top: 14px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.copyright {
+    display: inline-block;
+    color: #ffffff;
+    border-radius: 5px;
+    text-align: center;
+    vertical-align: middle;
+    padding: 5px;
+    margin-top: 130px;
+    float: right;
+}
+
+.copyright-title {
+    font-size: 14px;
+    margin: 0;
+}
+
+.support {
+    font-size: 14px;
+    margin: 0;
+}
+
+.clearfix:after {
+    clear: both;
+    content: "";
+    display: table;
+}
+
+
+
+@media  {
+
+}
+
+
